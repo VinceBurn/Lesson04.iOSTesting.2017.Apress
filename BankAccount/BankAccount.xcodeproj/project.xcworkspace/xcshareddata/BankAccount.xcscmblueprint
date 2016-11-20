@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD457786E77BBC19C47FB17C620E29258B1075F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AF86789B3D79B318542C3F3A1560D252BAE3BCF4" : 9223372036854775807,
+    "DD457786E77BBC19C47FB17C620E29258B1075F2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "567D0D58-0F7F-4EEC-925D-378D5A14A27C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AF86789B3D79B318542C3F3A1560D252BAE3BCF4" : "",
+    "DD457786E77BBC19C47FB17C620E29258B1075F2" : "Lesson04.iOSTesting.2017.Apress\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BankAccount",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BankAccount\/BankAccount.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/asmtechnology\/Lesson03.iOSTesting.2017.Apress.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF86789B3D79B318542C3F3A1560D252BAE3BCF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/asmtechnology\/Lesson04.iOSTesting.2017.Apress.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD457786E77BBC19C47FB17C620E29258B1075F2"
+    }
+  ]
+}
